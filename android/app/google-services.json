@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529377445918",
+    "project_id": "charming-wishpers",
+    "storage_bucket": "charming-wishpers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529377445918:android:396da16fed3c1d1d8a060f",
+        "android_client_info": {
+          "package_name": "com.sudoraj.charmingwishpers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9SH5uf8gJypjpKidQuuzOA7cZatSMwCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
